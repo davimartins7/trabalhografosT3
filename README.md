@@ -94,4 +94,4 @@ Davi Martins
 Paulo Afonso 
 Isaac Coelho 
 
-Trabalho acadêmico desenvolvido para a disciplina de **Algoritmos / Estrutura de Dados**, utilizando o padrão **ALGS4** para implementação e análise de grafos.
+Trabalho acadêmico desenvolvido para a disciplina de **Grafos**, utilizando o padrão **ALGS4** para implementação e análise de grafos.
